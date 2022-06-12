@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 my name is narendra modi
-=======
 My name is Ruchika Motwani
->>>>>>> 5e082d0158891276617f2a83745ffb62b9c702fe
